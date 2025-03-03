@@ -1,6 +1,6 @@
 
   <div align="center">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/1*ln1oPanVYSrs7dirNWZ0LQ.jpeg" align="center"             style="width: 100%" />
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*ln1oPanVYSrs7dirNWZ0LQ.jpeg" align="center"             style="width: 70%" />
 </div>    
 
 <h1 align="center">Hi 👋, I'm Prasetyo Ari Wibowo</h1>
