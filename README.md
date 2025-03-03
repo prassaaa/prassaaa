@@ -1,9 +1,9 @@
 
   <div align="center">
-    <img src="[https://cdn.hashnode.com/res/hashnode/image/upload/v1679318847642/eb05a32c-e2a5-40fb-969b-5a72f78e30ef.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm](https://miro.medium.com/v2/resize:fit:1400/1*ln1oPanVYSrs7dirNWZ0LQ.jpeg)" align="center"             style="width: 100%" />
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*ln1oPanVYSrs7dirNWZ0LQ.jpeg" align="center"             style="width: 100%" />
 </div>    
 
-<h1 align="center">Hi 👋, I'm Adrian Musa Alfauzan</h1>
+<h1 align="center">Hi 👋, I'm Prasetyo Ari Wibowo</h1>
 
 ### <div align="center">I am a full-time full-stack web developer 👨‍💻</div>  
 <h3 align="center">A Passionate Programmer Exploring technology and Cracking Codes🚀
