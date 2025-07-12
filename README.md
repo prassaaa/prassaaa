@@ -72,11 +72,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=prassaaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7E37F9&icon_color=B48EF7&text_color=E568C4" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prassaaa&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7E37F9&text_color=E568C4" alt="Top Languages" width="48%" />
 </div>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=prassaaa&theme=tokyonight&hide_border=true&background=0D1117&stroke=7E37F9&ring=B48EF7&fire=E568C4&currStreakNum=E568C4&sideNums=E568C4&currStreakLabel=7E37F9&sideLabels=7E37F9&dates=8B949E" alt="GitHub Streak" width="70%" />
+  <img src="https://streak-stats.demolab.com/?user=prassaaa&theme=tokyonight&hide_border=true&background=0D1117&stroke=7E37F9&ring=B48EF7&fire=E568C4&currStreakNum=E568C4&sideNums=E568C4&currStreakLabel=7E37F9&sideLabels=7E37F9&dates=8B949E" alt="GitHub Streak" width="70%" />
 </div>
-
 ---
 
 ## ✍️ Random Developer Quote
