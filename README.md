@@ -1,22 +1,3 @@
-# 💻 Welcome to My Profile
-
-<div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*ln1oPanVYSrs7dirNWZ0LQ.jpeg" width="300px" style="border-radius: 50%; border: 3px solid #7E37F9;" />
-  <br><br>
-  <h1>Hi 👋, I'm Prasetyo Ari Wibowo</h1>
-  <h3>A Passionate Full-Stack Developer Exploring Technology and Cracking Codes 🚀</h3>
-  
-  <p><strong>There is a whole new world of technology</strong></p>
-  <p><strong>That you need to explore and master</strong></p>
-  <p><strong>It's the sound of innovation</strong></p>
-  <p><strong>That drives passion and excellence</strong></p>
-  
-  <img src="https://komarev.com/ghpvc/?username=prassaaa&label=Profile%20Views&color=7E37F9&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-007ACC?logo=code&logoColor=white&style=for-the-badge" alt="Full Stack Developer" />
-</div>
-
----
-
 ## 🦊 About Me
 
 <div align="center">
