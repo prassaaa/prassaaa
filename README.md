@@ -75,7 +75,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=prassaaa&theme=tokyonight&hide_border=true&background=0D1117&stroke=7E37F9&ring=B48EF7&fire=E568C4&currStreakNum=E568C4&sideNums=E568C4&currStreakLabel=7E37F9&sideLabels=7E37F9&dates=8B949E" alt="GitHub Streak" width="70%" />
 </div>
----
 
 ## ✍️ Random Developer Quote
 
